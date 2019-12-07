@@ -13,8 +13,8 @@ url                      : "https://chenyoubin1023.github.io"
 #repository               : "https://github.com/chenyoubin1023/chenyoubin1023.github.io"
 teaser                   : "/assets/images/sights_500_300.jpg"
 logo                     : "/assets/images/Logo4.png"
-breadcrumbs              : true
-words_per_minute         : 200
+#breadcrumbs              : true
+words_per_minute         : 100
 comments:
   provider               : "disqus"
   disqus:
@@ -48,7 +48,7 @@ social:
 # Site Author
 author:
   name             : "Youbin Chen"
-  avatar           : "/assets/images/me.jpg"
+  avatar           : "/assets/images/me2.jpg"
   bio              : "固体力学博士"
   location         : "Shenzhen, China"
   links:

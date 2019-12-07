@@ -1,19 +1,24 @@
 # Theme Settings
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default"
+minimal_mistakes_skin    : "contrast" #default air aqua contrast dark dirt neon mint plum sunrise
 
 # Site Settings
-locale                   : "zh-CN"
-title                    : "Youbin Chen"
-title_separator          : "-"
+locale                   : "zh"  # zh-CN
+title                    : "Youbin"
+title_separator          : "/"
+#subtitle                 : "your best friend"
 name                     : "Youbin Chen"
-description              : "谈论数学、物理、科幻、人生及其他的博客"
+description              : "谌友彬的博客"
 url                      : "https://chenyoubin1023.github.io"
-words_per_minute         : 20
-#comments:
-  #provider               : "disqus"
-  #disqus:
-    #shortname            : "tianyikillua"
+#repository               : "https://github.com/chenyoubin1023/chenyoubin1023.github.io"
+teaser                   : "/assets/images/sights_500_300.jpg"
+logo                     : "/assets/images/Logo4.png"
+breadcrumbs              : true
+words_per_minute         : 200
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : "youbin"
 search                   : true
 search_full_content      : true
 #search_provider          : algolia
@@ -22,11 +27,17 @@ search_full_content      : true
   #index_name             : Blog
   #search_only_api_key    : 01c79c59b07558a5bba71b1347ead4d9
   #powered_by             : true
+  
+#Google Custom Search Engine  
+google:
+  search_engine_id: 013264918593279799980
 
 # Social Sharing
 social:
   links:
     - "https://www.linkedin.com/in/youbin-chen/"
+    - "https://github.com/chenyoubin1023"
+    - "http://bitbucket.org/chenyoubin"
 
 # Analytics
 #analytics:
@@ -37,11 +48,11 @@ social:
 # Site Author
 author:
   name             : "Youbin Chen"
-  avatar           : "/assets/images/avatar.png"
+  avatar           : "/assets/images/me.jpg"
   bio              : "固体力学博士"
-  location         : "Paris"
+  location         : "Shenzhen, China"
   links:
-    #- label: "CV"
+    #- label: "Resume"
       #icon: "fas fa-fw fa-user-circle"
       #url: "https://github.com/tianyikillua/cv/blob/master/cv.pdf"
     - label: "GitHub"
@@ -50,9 +61,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/youbin-chen"
-    #- label: "Bitbucket"
-      #icon: "fab fa-fw fa-bitbucket"
-      #url: "http://bitbucket.org/litianyi"
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      url: "http://bitbucket.org/chenyoubin"
 
 # Site Footer
 footer:
@@ -63,9 +74,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/youbin-chen"
-    #- label: "Bitbucket"
-      #icon: "fab fa-fw fa-bitbucket"
-      #url: "http://bitbucket.org/litianyi"
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      url: "http://bitbucket.org/chenyoubin"
 
 # Reading Files
 include:

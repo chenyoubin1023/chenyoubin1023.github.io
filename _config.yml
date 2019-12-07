@@ -3,69 +3,69 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Tianyi"
+locale                   : "zh-CN"
+title                    : "Youbin Chen"
 title_separator          : "-"
-name                     : "Tianyi Li"
-description              : "谈论数学、物理、科幻、动漫、政治、人生及其他的博客"
-url                      : "https://www.litianyi.me"
+name                     : "Youbin Chen"
+description              : "谈论数学、物理、科幻、人生及其他的博客"
+url                      : "https://chenyoubin1023.github.io"
 words_per_minute         : 20
-comments:
-  provider               : "disqus"
-  disqus:
-    shortname            : "tianyikillua"
+#comments:
+  #provider               : "disqus"
+  #disqus:
+    #shortname            : "tianyikillua"
 search                   : true
 search_full_content      : true
-search_provider          : algolia
-algolia:
-  application_id         : 5ODSKX9P06
-  index_name             : Blog
-  search_only_api_key    : 01c79c59b07558a5bba71b1347ead4d9
-  powered_by             : true
+#search_provider          : algolia
+#algolia:
+  #application_id         : 5ODSKX9P06
+  #index_name             : Blog
+  #search_only_api_key    : 01c79c59b07558a5bba71b1347ead4d9
+  #powered_by             : true
 
 # Social Sharing
 social:
   links:
-    - "https://www.linkedin.com/in/tianyikillua"
+    - "https://www.linkedin.com/in/youbin-chen/"
 
 # Analytics
-analytics:
-  provider               : "google-universal"
-  google:
-    tracking_id          : "UA-16692644-8"
+#analytics:
+  #provider               : "google-universal"
+  #google:
+    #tracking_id          : "UA-16692644-8"
 
 # Site Author
 author:
-  name             : "Tianyi Li"
+  name             : "Youbin Chen"
   avatar           : "/assets/images/avatar.png"
-  bio              : "旅居法国的力学博士"
+  bio              : "固体力学博士"
   location         : "Paris"
   links:
-    - label: "CV"
-      icon: "fas fa-fw fa-user-circle"
-      url: "https://github.com/tianyikillua/cv/blob/master/cv.pdf"
+    #- label: "CV"
+      #icon: "fas fa-fw fa-user-circle"
+      #url: "https://github.com/tianyikillua/cv/blob/master/cv.pdf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/tianyikillua"
+      url: "https://github.com/chenyoubin1023"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/tianyikillua"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      url: "http://bitbucket.org/litianyi"
+      url: "https://www.linkedin.com/in/youbin-chen"
+    #- label: "Bitbucket"
+      #icon: "fab fa-fw fa-bitbucket"
+      #url: "http://bitbucket.org/litianyi"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/tianyikillua"
+      url: "https://github.com/chenyoubin1023"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/tianyikillua"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      url: "http://bitbucket.org/litianyi"
+      url: "https://www.linkedin.com/in/youbin-chen"
+    #- label: "Bitbucket"
+      #icon: "fab fa-fw fa-bitbucket"
+      #url: "http://bitbucket.org/litianyi"
 
 # Reading Files
 include:

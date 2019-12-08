@@ -5,11 +5,9 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home_images/logo5.png
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
+    - label: "<i class='fas fa-download'></i> 更多"
       url: "/resume/"
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.2">Latest release v4.17.2</a></small>
+excerpt: 点击这里
 feature_row:
   - image_path: /assets/images/home_images/cv-cover.png
     alt: "customizable"

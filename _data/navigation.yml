@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "所有博文"
+  - title: "首页"
+    url: /
+  - title: "博文"
     url: /archive/
   - title: "按标签"
     url: /tags/

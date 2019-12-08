@@ -18,14 +18,14 @@ feature_row:
     btn_label: "更多..."
   - image_path: /assets/images/home_images/logo1.png
     alt: "fully responsive"
-    title: "Responsive layouts"
+    title: "添加标题"
     excerpt: "添加概述"
     url: "/resume/"
     btn_class: "btn--primary"
     btn_label: "更多..."
   - image_path: /assets/images/home_images/logo1.png
     alt: "100% free"
-    title: "100% free"
+    title: "添加标题"
     excerpt: "添加概述"
     url: "/resume"
     btn_class: "btn--primary"

@@ -1,4 +1,3 @@
-
 ---
 title: "Chen Youbin"
 layout: splash

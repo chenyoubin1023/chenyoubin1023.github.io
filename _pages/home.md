@@ -5,9 +5,9 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home_images/logo5.png
   actions:
-    - label: "<i class='fas fa-download'></i> 欢迎您的到来，在这里您将进一步了解我"
+    - label: "<i class='fas fa-download'></i> 点击我"
       url: "/resume/"
-excerpt: 点击我
+excerpt: 欢迎您的到来，在这里您将进一步了解我
 feature_row:
   - image_path: /assets/images/home_images/cv-cover.png
     alt: "customizable"

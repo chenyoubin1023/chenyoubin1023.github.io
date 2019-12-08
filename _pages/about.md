@@ -1,5 +1,5 @@
 ---
-title: 关于我
+title: 联系我
 permalink: /about/
 ---
 

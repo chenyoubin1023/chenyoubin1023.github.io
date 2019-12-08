@@ -18,7 +18,7 @@ words_per_minute         : 100
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "youbin"
+    shortname            : "chenyoubin"
 search                   : true
 search_full_content      : true
 #search_provider          : algolia
@@ -28,9 +28,10 @@ search_full_content      : true
   #search_only_api_key    : 01c79c59b07558a5bba71b1347ead4d9
   #powered_by             : true
   
-#Google Custom Search Engine  
-google:
-  search_engine_id: 013264918593279799980
+#Google Custom Search Engine 
+#search_provider          : google
+#google:
+  #search_engine_id: 013264918593279799980
 
 # Social Sharing
 social:
@@ -136,6 +137,7 @@ defaults:
       share: false
       related: true
       classes: wide
+      #toc    : true
   # _pages
   - scope:
       path: ""
@@ -146,3 +148,4 @@ defaults:
       classes: wide
       comments: true
       share: true
+      #toc    : true

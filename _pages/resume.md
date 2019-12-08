@@ -3,18 +3,17 @@ title: 个人信息
 permalink: /resume/ 
 toc: true
 toc_label: "目录"
-<!-- toc_icon: "cog" -->
+toc_icon: "cog"
 toc_sticky: true
 ---
 
 更多关于我的个人经历，请通过[联系我](/about/)联系我。
 
-<iframe src="https://github.com/chenyoubin1023/cv/raw/master/cv_cn.pdf" height="600" width="300"></iframe>
-
+<iframe src="https://perso.limsi.fr/pointal/_media/python:cours:courspython3.pdf" height="600" width="300"></iframe>
 # 基本信息
 姓名: 谌友彬
 性别: 男
-国家/地区: 中国
+国家/地区: 中国？
 出生年月: 1991-10
 工作年限: 3年
 最高学历: 博士研究生

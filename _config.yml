@@ -53,9 +53,9 @@ author:
   bio              : "固体力学博士"
   location         : "Shenzhen, China"
   links:
-    #- label: "Resume"
-      #icon: "fas fa-fw fa-user-circle"
-      #url: "https://github.com/tianyikillua/cv/blob/master/cv.pdf"
+    - label: "CV"
+      icon: "fas fa-fw fa-user-circle"
+      url: "https://github.com/chenyoubin1023/cv/blob/master/cv_cn.pdf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chenyoubin1023"

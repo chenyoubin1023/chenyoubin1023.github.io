@@ -3,9 +3,11 @@ title: 个人信息
 permalink: /resume/ 
 toc: true
 toc_label: "目录"
-toc_icon: "cog"
+<!-- toc_icon: "cog" -->
 toc_sticky: true
 ---
+
+更多关于我的个人经历，请通过[联系我](/about/)联系我。
 
 # 基本信息
 姓名: 谌友彬
@@ -37,9 +39,11 @@ toc_sticky: true
 2016-11 - 2019-11 
 博士论文: Modeling of ductile fracture using local approach: Reliable simulations of crack extension 
 期刊论文:
--Chen, Y., Lorentz, E., Besson, J., 2019. Properties of a nonlocal GTN model in the context of small-scale yielding. International Journal of Plasticity (Under review)
--Chen, Y., Lorentz, E., Besson, J., A gradient plasticity model for ductile fracture: strategies for numerical robustness and reliability (Under preparation)
--Chen. Y., Lorentz, E., Besson, J., Dahl, A., Simulation of ductile crack initiation and propagation in a C-Mn steel using a nonlocal GTN model (Under preparation) 
+- **Chen, Y., Lorentz, E., Besson, J., 2019. Properties of a nonlocal GTN model in the context of small-scale yielding. International Journal of Plasticity (Under review)**
+
+- **Chen, Y., Lorentz, E., Besson, J., A gradient plasticity model for ductile fracture: strategies for numerical robustness and reliability (Under preparation)**
+
+- **Chen. Y., Lorentz, E., Besson, J., Dahl, A., Simulation of ductile crack initiation and propagation in a C-Mn steel using a nonlocal GTN model (Under preparation)** 
 
 2014.11 - 2015.09 
 硕士论文: Numerical simulation of pre-stressed reinforced concrete structure 

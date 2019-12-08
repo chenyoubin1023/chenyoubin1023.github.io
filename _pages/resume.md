@@ -2,7 +2,7 @@
 title: 个人信息
 permalink: /resume/ 
 toc: true
-toc_label: "目录
+toc_label: 目录
 toc_sticky: true
 classes: default
 ---
